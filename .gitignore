@@ -1,0 +1,38 @@
+# ContextBridge — local storage
+.contextbridge/
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Editor artifacts
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# npm pack output
+*.tgz
+
+# Logs
+*.log
+npm-debug.log*
+
+# Test tmp directories
+tmp/
+temp/

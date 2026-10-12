@@ -1,0 +1,16 @@
+# Exclude everything by default, then allowlist only what npm needs
+*
+
+# Allow the dist folder (compiled output)
+!dist/
+!dist/**
+
+# Allow documentation
+!README.md
+!LICENSE
+!CHANGELOG.md
+!SECURITY.md
+!CONTRIBUTING.md
+
+# Allow package.json
+!package.json
