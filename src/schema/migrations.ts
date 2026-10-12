@@ -68,7 +68,7 @@ export function migrateSnapshot(
     if (!migrateFn) {
       throw new Error(
         `No migration path found from schema version "${currentVersion}" to "${SCHEMA_VERSION}". ` +
-          `This is a bug — please report it at https://github.com/contextbridge/contextbridge/issues`,
+          `This is a bug — please report it at https://github.com/Layyzyy/contextbridge/issues`,
       );
     }
     current = migrateFn(current);

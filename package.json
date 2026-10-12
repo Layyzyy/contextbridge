@@ -54,12 +54,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/contextbridge/contextbridge.git"
+    "url": "https://github.com/Layyzyy/contextbridge.git"
   },
   "bugs": {
-    "url": "https://github.com/contextbridge/contextbridge/issues"
+    "url": "https://github.com/Layyzyy/contextbridge/issues"
   },
-  "homepage": "https://github.com/contextbridge/contextbridge#readme",
+  "homepage": "https://github.com/Layyzyy/contextbridge#readme",
   "engines": {
     "node": ">=20.0.0"
   },

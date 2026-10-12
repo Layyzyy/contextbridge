@@ -19,7 +19,7 @@ ContextBridge is built with **Node.js (>= 20.0.0)** and **TypeScript 5.x** using
 
 ### 2. Clone and Install
 ```bash
-git clone https://github.com/contextbridge/contextbridge.git
+git clone https://github.com/Layyzyy/contextbridge.git
 cd contextbridge
 npm install
 ```

@@ -68,7 +68,7 @@ Environment variables:
   NO_COLOR               Disable colored output
   CONTEXTBRIDGE_DEBUG=1  Enable debug output (stack traces, verbose logs)
 
-Documentation: https://github.com/contextbridge/contextbridge
+Documentation: https://github.com/Layyzyy/contextbridge
 `,
   );
 
